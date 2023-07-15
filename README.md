@@ -33,7 +33,7 @@ pip install pandas yfinance deap numpy matplotlib ipywidgets
 ## Usage
 Clone the repository:
 ```shell
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPOSITORY_NAME>.git
+git clone https://github.com/DhruvAjayToshniwal/Genetic-Algorithm-for-Financial-Portfolio-Optimization.git
 ```
 Run the script:
 ```shell
